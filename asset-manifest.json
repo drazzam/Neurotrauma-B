@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Neurotrauma-B/static/css/main.b9d732d5.chunk.css",
-    "main.js": "/Neurotrauma-B/static/js/main.0bc14384.chunk.js",
-    "main.js.map": "/Neurotrauma-B/static/js/main.0bc14384.chunk.js.map",
+    "main.css": "/Neurotrauma-B/static/css/main.0b7752ca.chunk.css",
+    "main.js": "/Neurotrauma-B/static/js/main.daede8f7.chunk.js",
+    "main.js.map": "/Neurotrauma-B/static/js/main.daede8f7.chunk.js.map",
     "runtime-main.js": "/Neurotrauma-B/static/js/runtime-main.15ea51b4.js",
     "runtime-main.js.map": "/Neurotrauma-B/static/js/runtime-main.15ea51b4.js.map",
     "static/js/2.05dc5fac.chunk.js": "/Neurotrauma-B/static/js/2.05dc5fac.chunk.js",
     "static/js/2.05dc5fac.chunk.js.map": "/Neurotrauma-B/static/js/2.05dc5fac.chunk.js.map",
     "static/js/3.c8da2d53.chunk.js": "/Neurotrauma-B/static/js/3.c8da2d53.chunk.js",
     "static/js/3.c8da2d53.chunk.js.map": "/Neurotrauma-B/static/js/3.c8da2d53.chunk.js.map",
-    "0ba58bf67e03de2dac8b.worker.js": "/Neurotrauma-B/0ba58bf67e03de2dac8b.worker.js",
-    "0ba58bf67e03de2dac8b.worker.js.LICENSE.txt": "/Neurotrauma-B/0ba58bf67e03de2dac8b.worker.js.LICENSE.txt",
-    "0ba58bf67e03de2dac8b.worker.js.map": "/Neurotrauma-B/0ba58bf67e03de2dac8b.worker.js.map",
+    "d458cf5f2630fcac759a.worker.js": "/Neurotrauma-B/d458cf5f2630fcac759a.worker.js",
+    "d458cf5f2630fcac759a.worker.js.LICENSE.txt": "/Neurotrauma-B/d458cf5f2630fcac759a.worker.js.LICENSE.txt",
+    "d458cf5f2630fcac759a.worker.js.map": "/Neurotrauma-B/d458cf5f2630fcac759a.worker.js.map",
     "index.html": "/Neurotrauma-B/index.html",
-    "static/css/main.b9d732d5.chunk.css.map": "/Neurotrauma-B/static/css/main.b9d732d5.chunk.css.map",
+    "static/css/main.0b7752ca.chunk.css.map": "/Neurotrauma-B/static/css/main.0b7752ca.chunk.css.map",
     "static/js/2.05dc5fac.chunk.js.LICENSE.txt": "/Neurotrauma-B/static/js/2.05dc5fac.chunk.js.LICENSE.txt",
     "static/media/check.06c31cf8.svg": "/Neurotrauma-B/static/media/check.06c31cf8.svg",
     "static/media/close.b502d4ba.svg": "/Neurotrauma-B/static/media/close.b502d4ba.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.15ea51b4.js",
     "static/js/2.05dc5fac.chunk.js",
-    "static/css/main.b9d732d5.chunk.css",
-    "static/js/main.0bc14384.chunk.js"
+    "static/css/main.0b7752ca.chunk.css",
+    "static/js/main.daede8f7.chunk.js"
   ]
 }
