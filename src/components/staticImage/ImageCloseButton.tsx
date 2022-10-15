@@ -12,7 +12,7 @@ type ImageCloseButtonProps = {
 function ImageCloseButton({setImageFile}: ImageCloseButtonProps) {
     
     const onClick = () => {
-        setImageFile(null);
+        window.location.reload();
     };
 
     return (
